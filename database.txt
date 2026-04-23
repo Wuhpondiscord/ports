@@ -1,0 +1,108 @@
+135 - MS SQL - SQL Server RPC (related)
+1433 - MSSQL - Microsoft SQL Server default
+1434 - MSSQL - SQL Server Browser (UDP)
+1521 - Oracle - Oracle Database default listener
+1522 - Oracle - Oracle database alternate
+1525 - Oracle - Oracle Oracle (deprecated)
+1567 - Oracle - Oracle SQL*Net V2
+1575 - Oracle - Oracle database
+1630 - Oracle - Oracle connection broker
+1830 - Oracle - Oracle (some versions)
+2030 - Oracle - Oracle (some)
+2100 - Oracle - Oracle XML DB
+2483 - Oracle - Oracle SSL (TCPS)
+2484 - Oracle - Oracle SSL alternate
+3000 - DB - Some embedded databases
+3040 - Oracle - Oracle (EBS)
+3050 - Firebird - Firebird database (classic)
+3060 - Firebird - Firebird SuperServer
+3306 - MySQL - MySQL default
+3307 - MySQL - MySQL alternate (MariaDB)
+3308 - MySQL - MySQL additional
+3309 - MySQL - MySQL cluster
+3310 - MySQL - MySQL backup
+3320 - MySQL - MySQL proxy
+3333 - MySQL - MySQL Workbench
+3350 - MySQL - MySQL enterprise
+3360 - MySQL - MySQL (custom)
+3370 - MySQL - MySQL (custom)
+3380 - MySQL - MySQL (custom)
+3390 - MySQL - MySQL (custom)
+3400 - MySQL - MySQL (custom)
+4022 - MSSQL - SQL Server Service Broker
+4120 - PostgreSQL - PostgreSQL alternative
+5040 - PostgreSQL - PostgreSQL (some)
+5432 - PostgreSQL - PostgreSQL default
+5433 - PostgreSQL - PostgreSQL alternate (Vertica)
+5444 - PostgreSQL - PostgreSQL (custom)
+5450 - PostgreSQL - PostgreSQL (additional)
+5500 - PostgreSQL - PostgreSQL (some)
+5555 - PostgreSQL - PostgreSQL (custom)
+5984 - CouchDB - CouchDB HTTP API
+6379 - Redis - Redis default (cache/db)
+6380 - Redis - Redis SSL
+6381 - Redis - Redis sentinel
+6382 - Redis - Redis cluster bus
+6390 - Redis - Redis additional
+6400 - Redis - Redis (custom)
+6420 - Redis - Redis (custom)
+6432 - PostgreSQL - PgBouncer connection pooler
+6444 - PostgreSQL - PostgreSQL (custom)
+6800 - CouchDB - CouchDB cluster port
+6984 - CouchDB - CouchDB HTTPS
+7000 - Cassandra - Cassandra (JMX)
+7001 - Cassandra - Cassandra internode
+7199 - Cassandra - Cassandra JMX (alternate)
+7474 - Neo4j - Neo4j HTTP interface
+7475 - Neo4j - Neo4j HTTPS interface
+7687 - Neo4j - Neo4j Bolt protocol
+8086 - InfluxDB - InfluxDB HTTP API
+8087 - InfluxDB - InfluxDB RPC
+8088 - InfluxDB - InfluxDB backup/restore
+8091 - Couchbase - Couchbase web console
+8092 - Couchbase - Couchbase views/query
+8093 - Couchbase - Couchbase N1QL query
+8094 - Couchbase - Couchbase search
+8095 - Couchbase - Couchbase analytics
+8096 - Couchbase - Couchbase eventing
+8097 - Couchbase - Couchbase backup
+8123 - ClickHouse - ClickHouse HTTP interface
+8124 - ClickHouse - ClickHouse HTTPS
+8161 - ActiveMQ - ActiveMQ (message broker)
+8529 - ArangoDB - ArangoDB HTTP API
+8529 - ArangoDB - ArangoDB SSL (same port)
+9042 - Cassandra - Cassandra CQL native transport
+9142 - Cassandra - Cassandra CQL SSL
+9160 - Cassandra - Cassandra Thrift (legacy)
+9200 - Elasticsearch - Elasticsearch HTTP API
+9300 - Elasticsearch - Elasticsearch transport
+9600 - Elasticsearch - Elasticsearch (Logstash)
+9999 - MongoDB - MongoDB web interface (older)
+10000 - MongoDB - MongoDB web interface (some)
+11211 - Memcached - Memcached (cache)
+11212 - Memcached - Memcached SSL
+11213 - Memcached - Memcached UDP
+11214 - Memcached - Memcached additional
+12000 - MongoDB - MongoDB (sharding)
+12005 - MongoDB - MongoDB config server
+12345 - PostgreSQL - PostgreSQL (custom)
+17000 - MongoDB - MongoDB (replica set)
+17001 - MongoDB - MongoDB (replica set)
+18000 - MongoDB - MongoDB (shard)
+20000 - MongoDB - MongoDB (custom)
+20717 - MongoDB - MongoDB (some)
+20718 - MongoDB - MongoDB additional
+27015 - PostgreSQL - PostgreSQL (custom)
+27017 - MongoDB - MongoDB default
+27018 - MongoDB - MongoDB shard server
+27019 - MongoDB - MongoDB config server
+27020 - MongoDB - MongoDB additional
+28015 - RethinkDB - RethinkDB client driver
+28016 - RethinkDB - RethinkDB cluster port
+29015 - RethinkDB - RethinkDB HTTP admin
+30000 - PostgreSQL - PostgreSQL (custom)
+50000 - DB2 - IBM DB2 default
+50001 - DB2 - IBM DB2 (alternate)
+50002 - DB2 - IBM DB2 (additional)
+50003 - DB2 - IBM DB2 (monitoring)
+50004 - DB2 - IBM DB2 (license)
