@@ -1,0 +1,103 @@
+411 - Direct Connect - Direct Connect hub port
+412 - Direct Connect - Direct Connect client port
+1030 - I2P - I2P peer port (initial)
+1031 - I2P - I2P additional peer
+1214 - FastTrack - Kazaa, iMesh (FastTrack protocol)
+2234 - Soulseek - Soulseek P2P file sharing
+2255 - Soulseek - Soulseek alternative
+2710 - BitTorrent - BitTorrent tracker (alternative)
+2711 - BitTorrent - BitTorrent tracker (alternative)
+3030 - Net::BitTorrent - BitTorrent peer port (Net::BitTorrent)
+3031 - Net::BitTorrent - Alternative
+4001 - IPFS - IPFS Swarm peer port (default)
+4111 - RetroShare - RetroShare P2P (TCP)
+4112 - RetroShare - RetroShare (UDP)
+4113 - RetroShare - RetroShare discovery
+4662 - eDonkey - eMule/eDonkey TCP
+4665 - eDonkey - eMule/eDonkey (alternative)
+4671 - eDonkey - eMule/eDonkey UDP (extended)
+4672 - eDonkey - eMule/eDonkey UDP
+4711 - eMule - eMule web interface
+4721 - eMule - eMule web interface alternative
+4771 - eMule - eMule additional
+4950 - BitTorrent - BitTorrent DHT (alternative)
+4951 - BitTorrent - BitTorrent DHT backup
+51413 - BitTorrent - Transmission default TCP/UDP
+5534 - Soulseek - Soulseek additional
+6346 - Gnutella - Gnutella (LimeWire, BearShare) TCP
+6347 - Gnutella - Gnutella UDP (pings)
+6348 - Gnutella - Gnutella extended
+6349 - Gnutella - Gnutella alternative
+6350 - Gnutella - Gnutella extended
+6351 - Gnutella - Gnutella extended
+6352 - Gnutella - Gnutella extended
+6353 - Gnutella - Gnutella extended
+6354 - Gnutella - Gnutella extended
+6355 - Gnutella - Gnutella extended
+6699 - WinMX - WinMX peer port
+6881 - BitTorrent - BitTorrent default (old) TCP
+6882 - BitTorrent - BitTorrent default range
+6883 - BitTorrent - BitTorrent range
+6884 - BitTorrent - BitTorrent range
+6885 - BitTorrent - BitTorrent range
+6886 - BitTorrent - BitTorrent range
+6887 - BitTorrent - BitTorrent range
+6888 - BitTorrent - BitTorrent range
+6889 - BitTorrent - BitTorrent range
+6969 - BitTorrent - BitTorrent tracker default
+6999 - BitTorrent - BitTorrent tracker alternative
+7000 - BitTorrent - Alternative BitTorrent (e.g., Vuze)
+7656 - I2P - I2P SAM bridge (TCP)
+7657 - I2P - I2P BOB bridge
+7658 - I2P - I2P I2CP protocol
+7660 - I2P - I2P HTTP proxy
+7777 - P2P - Various P2P apps (e.g., Warzone)
+8333 - Bitcoin - Bitcoin P2P mainnet (full node)
+8444 - BitMessage - BitMessage peer port
+8445 - BitMessage - BitMessage alternative
+8787 - Ares Galaxy - Ares P2P default
+8888 - OpenNap - OpenNap server, IPFS Gateway
+8998 - qBittorrent - qBittorrent web UI (also P2P)
+8999 - qBittorrent - qBittorrent default port
+9000 - P2P - Generic P2P (e.g., many apps)
+9100 - P2P - Various P2P (e.g., BitTorrent sync)
+9481 - Freenet - Freenet node (TCP)
+9482 - Freenet - Freenet node (UDP)
+9483 - Freenet - Freenet alternative
+9899 - BitTorrent - BitTorrent alternative
+9999 - P2P - Various P2P file sharing
+10001 - P2P - Gnutella alternative
+10223 - P2P - Various (e.g., BitTorrent Sync)
+13333 - P2P - eMule alternative
+16661 - P2P - BitTorrent alternative (many)
+16881 - BitTorrent - BitTorrent alternative (uTorrent)
+16882 - BitTorrent - uTorrent additional
+16969 - BitTorrent - Alternative BitTorrent
+17001 - BitTorrent - BitTorrent alternative
+18080 - Monero - Monero P2P network
+18333 - Bitcoin - Bitcoin testnet P2P
+19999 - BitTorrent - Distributed hash table
+20000 - P2P - Various file sharing
+21025 - BitTorrent - BitTorrent DHT
+21027 - Syncthing - Syncthing discovery port
+21117 - BitTorrent - Alternative DHT
+22000 - Syncthing - Syncthing TCP peer port
+22001 - Syncthing - Syncthing alternative
+27015 - Steam P2P - Steam content distribution P2P
+27016 - Steam P2P - Steam P2P auxiliary
+27020 - Steam P2P - Steam P2P additional
+27036 - Steam P2P - Steam friends & P2P
+28015 - P2P - Various (e.g., game P2P)
+29015 - P2P - Alternative
+30303 - Ethereum - Ethereum P2P (mainnet)
+30304 - Ethereum - Ethereum P2P alternative
+30720 - P2P - Various (e.g., BitTorrent Sync)
+30721 - P2P - Alternative
+34197 - P2P - Factorio P2P (game P2P)
+34567 - P2P - Various P2P apps
+40001 - P2P - eDonkey extended
+41001 - P2P - Various
+41625 - P2P - Alternative
+42100 - P2P - Origin P2P
+51235 - Ripple - Ripple P2P network
+55555 - P2P - Various file sharing
