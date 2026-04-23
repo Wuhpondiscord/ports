@@ -1,0 +1,108 @@
+80 - HTTP - Default web server port (Apache, Nginx, IIS)
+81 - HTTP - Alternate HTTP (cPanel, some web servers)
+82 - HTTP - Alternate HTTP (load balancers)
+83 - HTTP - Alternate HTTP
+84 - HTTP - Alternate HTTP
+88 - HTTP - Alternate HTTP (some routers)
+443 - HTTPS - Default SSL/TLS web server
+3000 - HTTP - Node.js (Express), Rails, Play framework
+3300 - HTTP - Angular development server
+4000 - HTTP - Flask, Phoenix, Jekyll default
+4040 - HTTP - Jetty, SparkJava
+4080 - HTTP - IBM WebSphere
+4100 - HTTP - Local web dev server
+4200 - HTTP - Angular CLI default
+4300 - HTTP - LiveServer, webpack dev server
+4400 - HTTP - HTTP static server
+4500 - HTTP - WebDAV, some web servers
+4567 - HTTP - Sinatra, Spark
+5000 - HTTP - Flask default, ASP.NET Core
+5001 - HTTPS - ASP.NET Core default with HTTPS
+5050 - HTTP - Web server (e.g., Selenium Grid)
+5555 - HTTP - Embedded web servers (Android)
+5601 - HTTP - Kibana web interface
+5800 - HTTP - VNC web interface
+5858 - HTTP - Web server (legacy)
+5984 - HTTP - CouchDB web interface
+6000 - HTTP - X11 web proxy, some app servers
+6080 - HTTP - VNC web (noVNC), web servers
+6161 - HTTP - Apache Tomcat? alternative
+6300 - HTTP - Web servers (custom)
+6443 - HTTPS - Kubernetes API server
+6565 - HTTP - Web server (e.g., Apache minor)
+6666 - HTTP - Custom web panels
+6868 - HTTP - Web server (e.g., Acronis)
+7000 - HTTP - WebLogic, some admin panels
+7001 - HTTP - WebLogic admin console
+7070 - HTTP - Web server (e.g., RealPlayer, Oracle)
+7080 - HTTP - Web server (e.g., Cisco)
+7100 - HTTP - Web admin (some enterprise apps)
+7300 - HTTP - Web servers (Zimbra, others)
+7443 - HTTPS - Alternative HTTPS (some web panels)
+7474 - HTTP - Neo4j HTTP interface
+7500 - HTTP - Web server (e.g., Dell OpenManage)
+7575 - HTTP - Web server (custom)
+7777 - HTTP - Alternative web server (Clojure, JBoss)
+8000 - HTTP - Python SimpleHTTPServer, Tomcat, Django
+8001 - HTTP - Alternate HTTP (IIS, development)
+8002 - HTTP - Alternate HTTP
+8003 - HTTP - Alternate HTTP
+8004 - HTTP - Alternate HTTP
+8005 - HTTP - Tomcat shutdown port (not web, but often listed)
+8006 - HTTP - Alternate HTTP
+8007 - HTTP - Alternate HTTP
+8008 - HTTP - Alternate HTTP (IBM HTTP Server)
+8009 - AJP - Apache JServ Protocol (web connectors)
+8010 - HTTP - Alternate HTTP (load balancers)
+8080 - HTTP - Common alternate (Tomcat, Jenkins, Proxy)
+8081 - HTTP - HTTP alternate (Hadoop, Gerrit)
+8082 - HTTP - HTTP alternate (Elasticsearch HTTP, some apps)
+8083 - HTTP - HTTP alternate (Apache Karaf, Web admin)
+8084 - HTTP - HTTP alternate (MongoDB web interface)
+8085 - HTTP - HTTP alternate (CouchDB, some web)
+8086 - HTTP - InfluxDB HTTP API
+8087 - HTTP - HTTP alternate (Riak, some panels)
+8088 - HTTP - HTTP alternate (Apache Storm UI)
+8089 - HTTP - HTTP alternate (Splunk, web servers)
+8090 - HTTP - HTTP alternate (Atlassian Confluence)
+8091 - HTTP - Couchbase web console
+8092 - HTTP - Couchbase admin port
+8093 - HTTP - Couchbase query service
+8094 - HTTP - Couchbase search
+8095 - HTTP - Couchbase indexing
+8100 - HTTP - Web server (e.g., Oracle HTTP)
+8180 - HTTP - HTTP alternate (Tomcat, IBM)
+8181 - HTTP - HTTP alternate (JBoss, Atlassian)
+8200 - HTTP - Web server (e.g., Elastic APM, Vault UI)
+8243 - HTTPS - HTTPS alternate (WSO2, API gateways)
+8280 - HTTP - HTTP alternate (Proxmox, some)
+8300 - HTTP - Web server (e.g., CloudFoundry)
+8400 - HTTP - Web server (e.g., Riak)
+8443 - HTTPS - Alternative HTTPS (Tomcat, Jenkins, web admin)
+8444 - HTTPS - Alternative HTTPS (WSO2, some panels)
+8484 - HTTP - HTTP alternate (WebDAV, some)
+8500 - HTTP - Web server (e.g., Consul UI)
+8585 - HTTP - HTTP alternate (web servers)
+8600 - HTTP - Web server (e.g., Consul DNS, some)
+8686 - HTTP - HTTP alternate (Web admin)
+8700 - HTTP - Web server (custom)
+8800 - HTTP - HTTP alternate (some routers)
+8880 - HTTP - HTTP alternate (Web servers, CDN)
+8888 - HTTP - HTTP alternate (Jupyter, some web)
+8889 - HTTP - HTTP alternate (testing)
+8890 - HTTP - HTTP alternate (OpenLink Virtuoso)
+8900 - HTTP - HTTP alternate (web servers)
+8983 - HTTP - Apache Solr web interface
+9000 - HTTP - HTTP alternate (Hadoop NameNode, Play)
+9001 - HTTP - HTTP alternate (Supervisor web UI, web servers)
+9043 - HTTPS - HTTPS alternate (WebSphere)
+9080 - HTTP - HTTP alternate (WebSphere, IBM)
+9090 - HTTP - HTTP alternate (Prometheus, web admin)
+9100 - HTTP - HTTP alternate (Node exporter, some)
+9200 - HTTP - Elasticsearch HTTP API
+9443 - HTTPS - HTTPS alternate (WSO2, some admin)
+9600 - HTTP - HTTP alternate (Elasticsearch, Logstash)
+9999 - HTTP - HTTP alternate (web admin panels)
+10000 - HTTP - Webmin default
+10080 - HTTP - HTTP alternate (some web servers)
+10443 - HTTPS - HTTPS alternate (some cloud services)
